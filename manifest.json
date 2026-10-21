@@ -1,0 +1,10 @@
+{
+  "name": "Yoru AI Character Lounge",
+  "short_name": "Yoru",
+  "description": "나만의 AI 캐릭터와 대화하는 어두운 테마의 모바일 웹 앱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101015",
+  "theme_color": "#111116",
+  "icons": []
+}
